@@ -79,7 +79,8 @@ path = 0x0
 
 ## NOTES ##
 
-* 2017-02-23: Vendor notification.
+* 2016-07-23: Vendor notification.
+* 2016-07-24: fix.
 
 The author is not responsible for the misuse of the information provided in this advisory.
 
