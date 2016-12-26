@@ -4,7 +4,7 @@
 * _Release date_: 2016-02-09
 * _Software_: www.php.net
 * _Version_: master-Git-2016-02-09 (Git)
-* _Reference_: bugs.php.net/bug.php?id=71561
+* _Reference_: https://bugs.php.net/bug.php?id=71561
 * _CVE_: -
 
 ## Description ##
